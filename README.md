@@ -2,31 +2,31 @@
 
 ## One Physics Sandbox, Infinite Interpretations
 
-### Intrigued and curious on how these games work? check out the [PowderCore](https://github.com/RobertFlexx/PowderCore-Engine) Engine on how to implement this "library/module' into your project, and to see the engine as a whole on how it works.
+### Intrigued and curious on how these games work? Check out the [PowderCore](https://github.com/RobertFlexx/PowderCore-Engine) engine to see how to integrate this "library/module" into your project and how the engine works as a whole.
 
-### All projects, and this specific custom Physics Engine, are licensed under BSD 3-Clause — see [LICENSE](https://github.com/RobertFlexx/Powder-Sandbox-GameHub/blob/main/LICENSE) for details.
+### All projects, and this custom physics engine, are licensed under BSD 3-Clause; see [LICENSE](https://github.com/RobertFlexx/Powder-Sandbox-GameHub/blob/main/LICENSE) for details.
 
-Welcome to the **Powder Sandbox Multi-Edition Hub**, the central nexus that connects all language editions of **Powder Sandbox** — the ever-evolving, terminal-based physics simulator of falling sand, flowing liquids, crackling electricity, and chaotic emergent beauty.
+Welcome to the **Powder Sandbox Multi-Edition Hub**, the central place that connects all language editions of **Powder Sandbox**, the terminal-based physics simulator of falling sand, flowing liquids, electricity, and emergent behavior.
 
-Born from a single `ncurses`-based C++ project, this simulation has grown into an entire ecosystem of editions — each built in a different language, each with its own flavor, performance quirks, and design philosophy.
+The project started as a single `ncurses`-based C++ project and has grown into an ecosystem of editions, each built in a different language with its own performance profile and design style.
 
-Choose your style, your language, your runtime — and dive into the chaos.
-
----
-
-## 🌋 The Core Premise
-
-At its heart, every edition of **Powder Sandbox** shares the same dream: simulate **life and destruction** inside the terminal.
-
-Grains of sand fall. Fire spreads. Water flows. Lightning crackles across metal wires and saltwater pools. Humans flee zombies. Plants grow in moist dirt. Seaweed stretches toward the light.
-
-Every version — from bare-metal **C** to high-level **Kotlin** — captures this interplay of physics and entropy in its own unique way.
+Pick a language, pick a runtime, and explore.
 
 ---
 
-## 🧭 Repository Index
+## The Core Premise
 
-### 🧱 Native / Systems Editions
+At its core, every edition of **Powder Sandbox** has the same goal: simulate **life and destruction** inside the terminal.
+
+Grains of sand fall. Fire spreads. Water flows. Lightning travels across metal wires and saltwater pools. Humans avoid zombies. Plants grow in moist dirt. Seaweed stretches upward under water.
+
+From low-level **C** to high-level **Kotlin**, each version models the same small world in its own way.
+
+---
+
+## Repository Index
+
+### Native / Systems Editions
 
 | Edition             | Language | Repo                                                                                                                     |
 | ------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------ |
@@ -34,7 +34,7 @@ Every version — from bare-metal **C** to high-level **Kotlin** — captures th
 | C Fast Edition      | C        | [https://github.com/RobertFlexx/Powder-Sandbox-Fast-Edition](https://github.com/RobertFlexx/Powder-Sandbox-Fast-Edition) |
 | Rustbox Edition     | Rust     | [https://github.com/RobertFlexx/Rustbox-Sandbox](https://github.com/RobertFlexx/Rustbox-Sandbox)                         |
 
-### ☕ JVM Editions
+### JVM Editions
 
 | Edition        | Language | Repo                                                                                                                         |
 | -------------- | -------- | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -42,36 +42,43 @@ Every version — from bare-metal **C** to high-level **Kotlin** — captures th
 | Scala Edition  | Scala    | [https://github.com/RobertFlexx/Powder-Sandbox-Scala-Edition](https://github.com/RobertFlexx/Powder-Sandbox-Scala-Edition)   |
 | Groovy Edition | Groovy   | [https://github.com/RobertFlexx/Powder-Sandbox-Groovy-Edition](https://github.com/RobertFlexx/Powder-Sandbox-Groovy-Edition) |
 
-### 🧩 .NET Editions
+### .NET Editions
 
 | Edition    | Language | Repo                                                                                                                 |
 | ---------- | -------- | -------------------------------------------------------------------------------------------------------------------- |
 | C# Edition | C#/.NET  | [https://github.com/RobertFlexx/Powder-Sandbox-CS-Edition](https://github.com/RobertFlexx/Powder-Sandbox-CS-Edition) |
 | F# Edition | F#/.NET  | [https://github.com/RobertFlexx/Power-Sandbox-F-Edition](https://github.com/RobertFlexx/Powder-Sandbox-F-Edition)     |
 
+### Special Editions
+
+| Edition       | Language | Repo          |
+| ------------- | -------- | ------------- |
+| HolyC Edition | HolyC    | *coming soon* |
+
 ---
 
-## 🔥 Shared Features Across All Editions
+## Shared Features Across All Editions
 
-Every edition — no matter the language — brings these defining traits:
+Every edition, regardless of language, shares these traits:
 
-* **Terminal UI (TUI)** simulation with colorful grid rendering
-* A universe of **interacting elements** — powders, liquids, solids, gases, and entities
+* **Terminal UI (TUI)** simulation with a colorful grid display
+* A variety of **interacting elements**: powders, liquids, solids, gases, and entities
 * Rich element reactions:
 
-  * **Powders:** sand, snow, ash, gunpowder
-  * **Liquids:** water, saltwater, oil, acid, lava, mercury
-  * **Solids:** stone, glass, wall, metal, coal, wood, plant, seaweed
-  * **Gases:** smoke, steam, hydrogen, chlorine, toxic gas
-  * **Actors:** humans, zombies, fire, lightning
+  * **Powders:** sand, snow, ash, gunpowder  
+  * **Liquids:** water, saltwater, oil, acid, lava, mercury  
+  * **Solids:** stone, glass, wall, metal, coal, wood, plant, seaweed  
+  * **Gases:** smoke, steam, hydrogen, chlorine, toxic gas  
+  * **Actors:** humans, zombies, fire, lightning  
+
 * **Physics logic:** gravity, buoyancy, temperature, conductivity, and chain reactions
-* **AI system:** humans evade fire and zombies; zombies infect the living
+* **Simple AI system:** humans move away from fire and zombies; zombies infect humans
 * **Procedural growth:** plants, seaweed, and moss react to water and dirt
-* **Cross-edition controls:** consistent key layout across all languages
+* **Cross-edition controls:** similar key layout across all languages
 
 ---
 
-## 🧮 Controls
+## Controls
 
 | Key               | Action                 |
 | ----------------- | ---------------------- |
@@ -86,171 +93,171 @@ Every edition — no matter the language — brings these defining traits:
 
 ---
 
-## 🧠 Edition-by-Edition Breakdown
+## Edition-by-Edition Breakdown
 
-### ⚙️ **C++ Classic Edition**
+### C++ Classic Edition
 
-**Repo:** [https://github.com/RobertFlexx/Powder-Sandbox-Classic](https://github.com/RobertFlexx/Powder-Sandbox-Classic)
-The original terminal masterpiece — a love letter to retro physics sims.
+**Repo:** [https://github.com/RobertFlexx/Powder-Sandbox-Classic](https://github.com/RobertFlexx/Powder-Sandbox-Classic)  
+The original terminal version that sets the behavior standard for the other editions.
 
-**Traits:** Fast, polished, cleanly structured. Acts as the behavioral reference for all future editions.
+**Traits:** Fast, structured, and used as the reference implementation.
 
 **Highlights:**
 
 * Modern **C++17 + ncurses**
 * Optimized simulation loop
 * Refined lava-water, fire, and AI behaviors
-* True to the original chaotic sandbox roots
 
 ---
 
-### ⚡ **C Fast Edition**
+### C Fast Edition
 
-**Repo:** [https://github.com/RobertFlexx/Powder-Sandbox-Fast-Edition](https://github.com/RobertFlexx/Powder-Sandbox-Fast-Edition)
-A raw C rewrite of the C++ edition, stripped to the bare metal.
+**Repo:** [https://github.com/RobertFlexx/Powder-Sandbox-Fast-Edition](https://github.com/RobertFlexx/Powder-Sandbox-Fast-Edition)  
+A C rewrite of the C++ edition with a focus on speed and simplicity.
 
-**Traits:** The fastest, most compact version — trades modularity for speed.
+**Traits:** Very fast and compact, with minimal abstraction.
 
 **Highlights:**
 
-* Minimal abstraction, pure C logic
-* Extremely fast cell updates
-* Clean and portable across systems
+* Straightforward C logic
+* Very fast cell updates
+* Portable across systems
 
 ---
 
-### 🦀 **Rustbox Edition**
+### Rustbox Edition
 
-**Repo:** [https://github.com/RobertFlexx/Rustbox-Sandbox](https://github.com/RobertFlexx/Rustbox-Sandbox)
-A reimagined Rust build that balances safety and performance.
+**Repo:** [https://github.com/RobertFlexx/Rustbox-Sandbox](https://github.com/RobertFlexx/Rustbox-Sandbox)  
+A Rust edition that aims to combine performance with safety.
 
-**Traits:** Systems-level power without memory risk.
+**Traits:** Systems-level performance with strong safety guarantees.
 
 **Highlights:**
 
 * Written in safe **Rust**
-* Fully modular architecture
-* Compile-time safety with zero-cost abstractions
+* Modular architecture
+* Zero-cost abstractions
 * Optional multi-threaded simulation
 
 ---
 
-### ☕ **Kotlin JVM Edition**
+### Kotlin JVM Edition
 
-**Repo:** [https://github.com/RobertFlexx/Powder-Sandbox-Kotlin-Edition](https://github.com/RobertFlexx/Powder-Sandbox-Kotlin-Edition)
-A modern, sleek, and performant JVM edition.
+**Repo:** [https://github.com/RobertFlexx/Powder-Sandbox-Kotlin-Edition](https://github.com/RobertFlexx/Powder-Sandbox-Kotlin-Edition)  
+A JVM-based edition built with Kotlin.
 
-**Traits:** Minimal syntax, expressive logic, cross-platform stability.
+**Traits:** Concise syntax, strong typing, and good tooling support.
 
 **Highlights:**
 
 * JVM + JNA for TUI rendering
-* Concise and type-safe
-* Excellent IDE and debugging support
+* Cross-platform behavior
+* Good IDE and debugging experience
 
 ---
 
-### 🧠 **Scala JVM Edition**
+### Scala JVM Edition
 
-**Repo:** [https://github.com/RobertFlexx/Powder-Sandbox-Scala-Edition](https://github.com/RobertFlexx/Powder-Sandbox-Scala-Edition)
-A typed, expressive, and functional approach to the sandbox.
+**Repo:** [https://github.com/RobertFlexx/Powder-Sandbox-Scala-Edition](https://github.com/RobertFlexx/Powder-Sandbox-Scala-Edition)  
+A Scala edition that leans into functional programming while still supporting OO patterns.
 
-**Traits:** Perfect for functional experimentation and DSL-style mechanics.
+**Traits:** Suited to functional experimentation and DSL-style mechanics.
 
 **Highlights:**
 
-* Immutable data model
+* Immutable data modeling
 * Strong compile-time checks
-* Functional + OO blend for flexible rules
+* Mix of functional and OO patterns
 
 ---
 
-### 🌀 **Groovy JVM Edition**
+### Groovy JVM Edition
 
-**Repo:** [https://github.com/RobertFlexx/Powder-Sandbox-Groovy-Edition](https://github.com/RobertFlexx/Powder-Sandbox-Groovy-Edition)
-A dynamic, scripting-ready edition for rapid experimentation.
+**Repo:** [https://github.com/RobertFlexx/Powder-Sandbox-Groovy-Edition](https://github.com/RobertFlexx/Powder-Sandbox-Groovy-Edition)  
+A dynamic edition built in Groovy for quick iteration and scripting.
 
-**Traits:** Instant feedback and no compile overhead.
+**Traits:** Easy to tweak and run without a heavy compile cycle.
 
 **Highlights:**
 
-* Fully dynamic, edit-and-run style
-* Ideal for live scripting and feature testing
-* Same TUI experience via JNA bridge
+* Dynamic, script-style workflow
+* Good for live experiments and prototyping
+* Uses the same TUI approach via JNA
 
 ---
 
-### 🎮 **C# / F# Edition (.NET)**
+### C# / F# Edition (.NET)
 
-**C# Repo:** [https://github.com/RobertFlexx/Powder-Sandbox-CS-Edition](https://github.com/RobertFlexx/Powder-Sandbox-CS-Edition)
-**F# Repo:** [https://github.com/RobertFlexx/Power-Sandbox-F-Edition](https://github.com/RobertFlexx/Powder-Sandbox-F-Edition)
-The modern .NET branch — feature-rich, organized, and extensible.
+**C# Repo:** [https://github.com/RobertFlexx/Powder-Sandbox-CS-Edition](https://github.com/RobertFlexx/Powder-Sandbox-CS-Edition)  
+**F# Repo:** [https://github.com/RobertFlexx/Power-Sandbox-F-Edition](https://github.com/RobertFlexx/Power-Sandbox-F-Edition)  
 
-**Traits:** Clean, high-level code with .NET polish.
+The .NET branch of the project, combining structured OOP and functional styles.
+
+**Traits:** Clean, high-level code with .NET's ecosystem and tooling.
 
 **Highlights:**
 
-* Cross-platform under **.NET 8**
-* Modular OOP (C#) and functional logic (F#)
-* Supports sound effects and extended color output
+* Cross-platform using **.NET 8**
+* Modular OOP in C#
+* Functional logic and pattern matching in F#
+* Support for extended color output and sound (where available)
 
 ---
 
-## 🧩 Choosing Your Edition
+## Choosing Your Edition
 
 | Goal                                             | Best Edition            |
 | ------------------------------------------------ | ----------------------- |
 | Want the original, reference implementation      | **C++ Classic Edition** |
 | Want the fastest, minimal runtime                | **C Fast Edition**      |
-| Want performance *and* memory safety             | **Rustbox Edition**     |
-| Want a modern JVM-based feel                     | **Kotlin Edition**      |
-| Want functional power and type-safety            | **Scala Edition**       |
-| Want dynamic scripting flexibility               | **Groovy Edition**      |
+| Want performance and memory safety               | **Rustbox Edition**     |
+| Want a modern JVM-based edition                  | **Kotlin Edition**      |
+| Want functional power and strong type-safety     | **Scala Edition**       |
+| Want dynamic scripting and quick iteration       | **Groovy Edition**      |
 | Want structured .NET OOP design                  | **C# Edition**          |
-| Want functional .NET logic with pattern matching | **F# Edition**          |
+| Want functional .NET with pattern matching       | **F# Edition**          |
 
 ---
 
-## 🧱 Roadmap
+## Roadmap
 
-Future hub goals:
+Planned hub improvements:
 
-* 🌈 Unified launcher CLI for all editions
-* 🧩 Shared assets repository (textures, sounds, element presets)
-* 🧠 AI sandbox expansion (neural sand logic?)
-* 💾 Save/load support across editions
-* 🔌 Inter-edition compatibility: load C++ saves in Kotlin, etc.
-
----
-
-## 🪐 Philosophy
-
-Each edition is more than a port — it’s a reinterpretation.
-From bare C to type-rich Scala, from compiled Rust to interpreted Groovy — every version captures a different side of the same universe.
-
-This is not just about code. It’s about seeing how **different languages simulate the same chaos**.
+* Unified launcher CLI for all editions  
+* Shared assets repository (textures, sounds, element presets)  
+* Expanded AI sandbox behavior  
+* Save/load support across editions  
+* Inter-edition compatibility, for example loading C++ saves in Kotlin  
 
 ---
 
-## 📜 License
+## Philosophy
 
-All versions are released under the **BSD 3-Clause License**.
+Each edition is not just a direct port. It is a slightly different interpretation of the same simulation idea.  
+
+From plain C to type-heavy Scala, from compiled Rust to interpreted Groovy, each language highlights different tradeoffs and styles while running the same kind of world.
+
+This project is as much about comparing languages as it is about simulating sand.
+
+---
+
+## License
+
+All versions are released under the **BSD 3-Clause License**.  
 Check each repository for details.
 
 ---
 
-## 👤 Author
+## Author
 
-**Robert (@RobertFlexx)**
-Architect of FerriteOS, builder of shells, editors, and the entire Powder Sandbox ecosystem.
+**Robert (@RobertFlexx)**  
+Architect of FerriteOS, and builder of shells, editors, and the Powder Sandbox ecosystem.
 
 GitHub: [https://github.com/RobertFlexx](https://github.com/RobertFlexx)
 
 ---
 
-### ⚙️ Final Words
+### Final Words
 
-Powder Sandbox isn’t just a physics simulator — it’s a **cross-language experiment**.
-A sandbox of code, chaos, and creativity.
-
-Choose your edition. Compile your world. Watch it fall apart beautifully.
+Powder Sandbox is a cross-language physics sandbox.  
+Pick an edition, build it, and see how your chosen language handles the same falling world.
