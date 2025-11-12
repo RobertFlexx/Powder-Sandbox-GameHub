@@ -2,7 +2,7 @@
 
 ## One Physics Sandbox, Infinite Interpretations
 
-### All projects are licensed under BSD 3-Clause — see [LICENSE](https://github.com/RobertFlexx/Powder-Sandbox-GameHub/blob/main/LICENSE) for details.
+### All projects, and this specific custom Physics Engine, are licensed under BSD 3-Clause — see [LICENSE](https://github.com/RobertFlexx/Powder-Sandbox-GameHub/blob/main/LICENSE) for details.
 
 Welcome to the **Powder Sandbox Multi-Edition Hub**, the central nexus that connects all language editions of **Powder Sandbox** — the ever-evolving, terminal-based physics simulator of falling sand, flowing liquids, crackling electricity, and chaotic emergent beauty.
 
