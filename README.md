@@ -199,7 +199,7 @@ The dynamic, scripting-friendly JVM port.
 
 ---
 
-### C# Edition (.NET)
+### C#/F# Edition (.NET)
 
 **Repo:** https://github.com/RobertFlexx/Powder-Sandbox-CS-Edition  
 
