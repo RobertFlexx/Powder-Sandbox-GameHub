@@ -42,7 +42,7 @@ This hub just makes it easier to choose your poison and jump to the right repo.
 | Edition       | Language | Repo                                                                 |
 | ------------- | -------- | -------------------------------------------------------------------- |
 | C# Edition    | C#/.NET  | https://github.com/RobertFlexx/Powder-Sandbox-CS-Edition            |
-| F# Edition    | F#/.NET  | *(repo link coming soon)*                                           |
+| F# Edition    | F#/.NET  | https://github.com/RobertFlexx/Powder-Sandbox-F-Edition                                         |
 
 ---
 
