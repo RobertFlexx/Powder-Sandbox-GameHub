@@ -45,7 +45,7 @@ Every version — from bare-metal **C** to high-level **Kotlin** — captures th
 | Edition    | Language | Repo                                                                                                                 |
 | ---------- | -------- | -------------------------------------------------------------------------------------------------------------------- |
 | C# Edition | C#/.NET  | [https://github.com/RobertFlexx/Powder-Sandbox-CS-Edition](https://github.com/RobertFlexx/Powder-Sandbox-CS-Edition) |
-| F# Edition | F#/.NET  | [https://github.com/RobertFlexx/Power-Sandbox-F-Edition](https://github.com/RobertFlexx/Power-Sandbox-F-Edition)     |
+| F# Edition | F#/.NET  | [https://github.com/RobertFlexx/Power-Sandbox-F-Edition](https://github.com/RobertFlexx/Powder-Sandbox-F-Edition)     |
 
 ---
 
@@ -181,7 +181,7 @@ A dynamic, scripting-ready edition for rapid experimentation.
 ### 🎮 **C# / F# Edition (.NET)**
 
 **C# Repo:** [https://github.com/RobertFlexx/Powder-Sandbox-CS-Edition](https://github.com/RobertFlexx/Powder-Sandbox-CS-Edition)
-**F# Repo:** [https://github.com/RobertFlexx/Power-Sandbox-F-Edition](https://github.com/RobertFlexx/Power-Sandbox-F-Edition)
+**F# Repo:** [https://github.com/RobertFlexx/Power-Sandbox-F-Edition](https://github.com/RobertFlexx/Powder-Sandbox-F-Edition)
 The modern .NET branch — feature-rich, organized, and extensible.
 
 **Traits:** Clean, high-level code with .NET polish.
