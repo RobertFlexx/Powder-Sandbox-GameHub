@@ -3,13 +3,14 @@
 One sandbox, **seven** flavors.  
 This repo is the central hub that connects every language edition of **Powder Sandbox**:
 
-- 🧱 C++ Classic Edition (original)
-- ⚡ C Fast Edition (C, speed-focused)
-- 🦀 Rustbox Edition (Rust)
-- 🧪 Kotlin Edition (JVM)
-- 🧠 Scala Edition (JVM)
-- 🌀 Groovy Edition (JVM)
-- 🎮 C# Edition (.NET)
+- C++ Classic Edition (original)
+- C Fast Edition (C, speed-focused)
+- Rustbox Edition (Rust)
+- Kotlin Edition (JVM)
+- Scala Edition (JVM)
+- Groovy Edition (JVM)
+- C# Edition (.NET)
+- F# Edition (.NET)
 
 All of them share the same core idea: a **terminal-based falling-sand simulator** with fire, lava, water, gases, plants, seaweed, humans, zombies, and a ridiculous amount of emergent chaos.
 
@@ -35,11 +36,12 @@ This hub just makes it easier to choose your poison and jump to the right repo.
 | Scala Edition    | Scala    | https://github.com/RobertFlexx/Powder-Sandbox-Scala-Edition         |
 | Groovy Edition   | Groovy   | https://github.com/RobertFlexx/Powder-Sandbox-Groovy-Edition        |
 
-### .NET Edition
+### .NET Editions
 
 | Edition       | Language | Repo                                                                 |
 | ------------- | -------- | -------------------------------------------------------------------- |
 | C# Edition    | C#/.NET  | https://github.com/RobertFlexx/Powder-Sandbox-CS-Edition            |
+| F# Edition    | F#/.NET  | *(repo link coming soon)*                                           |
 
 ---
 
@@ -68,7 +70,7 @@ The vibe is the same. The **language/runtime and ergonomics** are what differ.
 
 ## Edition-by-Edition Overview
 
-### 🧱 C++ Classic Edition
+### C++ Classic Edition
 
 **Repo:** https://github.com/RobertFlexx/Powder-Sandbox-Classic  
 
@@ -90,7 +92,7 @@ The original “classic” version.
 
 ---
 
-### ⚡ Fast Edition (C Version)
+### Fast Edition (C Version)
 
 **Repo:** https://github.com/RobertFlexx/Powder-Sandbox-Fast-Edition  
 
@@ -111,7 +113,7 @@ A **C rewrite** focused on being as lean and quick as possible.
 
 ---
 
-### 🦀 Rustbox Edition (Rust)
+### Rustbox Edition (Rust)
 
 **Repo:** https://github.com/RobertFlexx/Rustbox-Sandbox  
 
@@ -132,7 +134,7 @@ The Rust take on the sandbox.
 
 ---
 
-### 🧪 Kotlin JVM Edition
+### Kotlin JVM Edition
 
 **Repo:** https://github.com/RobertFlexx/Powder-Sandbox-Kotlin-Edition  
 
@@ -154,7 +156,7 @@ A modern JVM implementation using Kotlin.
 
 ---
 
-### 🧠 Scala JVM Edition
+### Scala JVM Edition
 
 **Repo:** https://github.com/RobertFlexx/Powder-Sandbox-Scala-Edition  
 
@@ -175,7 +177,7 @@ The Scala implementation, keeping close to the original while embracing Scala fe
 
 ---
 
-### 🌀 Groovy JVM Edition
+### Groovy JVM Edition
 
 **Repo:** https://github.com/RobertFlexx/Powder-Sandbox-Groovy-Edition  
 
@@ -196,7 +198,7 @@ The dynamic, scripting-friendly JVM port.
 
 ---
 
-### 🎮 C# Edition (.NET)
+### C# Edition (.NET)
 
 **Repo:** https://github.com/RobertFlexx/Powder-Sandbox-CS-Edition  
 
@@ -239,8 +241,8 @@ Short version:
 - **Want maximum hackability and scripting vibes?**  
   → Groovy Edition
 
-- **Live in the .NET world and like structured C# code?**  
-  → C# Edition
+- **Live in the .NET world and like structured C# / F# code?**  
+  → C# / F# Editions
 
 You really can’t go “wrong” — the differences are mostly in **language, tooling, and ergonomics**, not in the core sandbox spirit.
 
