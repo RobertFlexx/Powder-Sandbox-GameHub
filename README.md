@@ -1,4 +1,5 @@
 # Powder Sandbox – Multi-Edition Hub
+## All of these projects are licensed under BSD 3-Clause, see LICENSE for further details.
 
 One sandbox, **seven** flavors.  
 This repo is the central hub that connects every language edition of **Powder Sandbox**:
