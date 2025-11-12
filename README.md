@@ -199,6 +199,8 @@ The .NET branch of the project, combining structured OOP and functional styles.
 
 * Cross-platform using **.NET 8**
 * Modular OOP in C#
+* High performance scalability in C#
+* Beautiful mathematical aspects in F#
 * Functional logic and pattern matching in F#
 * Support for extended color output and sound (where available)
 
