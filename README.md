@@ -12,6 +12,7 @@ The project started as a single `ncurses`-based C++ project and has grown into a
 
 Pick a language, pick a runtime, and explore.
 
+> Interested in a helpful utility? see [Tedit](https://github.com/RobertFlexx/tedit), my minimal, helpful, text editor in C++17
 ---
 
 ## The Core Premise
