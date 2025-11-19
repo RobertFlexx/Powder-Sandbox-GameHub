@@ -39,11 +39,14 @@ From low-level **C** to high-level **Kotlin**, each version models the same smal
 
 ### Native / Systems Editions
 
-| Edition             | Language | Repo                                                                                                                     |
-| ------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------ |
-| C++ Classic Edition | C++17    | [https://github.com/RobertFlexx/Powder-Sandbox-Classic](https://github.com/RobertFlexx/Powder-Sandbox-Classic)           |
-| C Fast Edition      | C        | [https://github.com/RobertFlexx/Powder-Sandbox-Fast-Edition](https://github.com/RobertFlexx/Powder-Sandbox-Fast-Edition) |
-| Rustbox Edition     | Rust     | [https://github.com/RobertFlexx/Rustbox-Sandbox](https://github.com/RobertFlexx/Rustbox-Sandbox)                         |
+| Edition             | Language       | Repo                                                                                                                     |
+| ------------------- | -------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| C++ Classic Edition | C++17          | [https://github.com/RobertFlexx/Powder-Sandbox-Classic](https://github.com/RobertFlexx/Powder-Sandbox-Classic)           |
+| C Fast Edition      | C              | [https://github.com/RobertFlexx/Powder-Sandbox-Fast-Edition](https://github.com/RobertFlexx/Powder-Sandbox-Fast-Edition) |
+| Rustbox Edition     | Rust           | [https://github.com/RobertFlexx/Rustbox-Sandbox](https://github.com/RobertFlexx/Rustbox-Sandbox)                         |
+| Objective-C Edition | Objective-C    | *coming soon*                                                                                                           |
+| Objective-C++ Ed.   | Objective-C++  | *coming soon*                                                                                                           |
+| OCaml Edition       | OCaml          | *coming soon*                                                                                                           |
 
 ### JVM Editions
 
@@ -152,6 +155,42 @@ A Rust edition that aims to combine performance with safety.
 
 ---
 
+### Objective-C Edition
+
+**Traits:** Combines C-based low-level efficiency with object-oriented patterns.
+
+**Highlights:**
+
+* Uses **Objective-C runtime**
+* Enables Cocoa-style object handling in a terminal simulation
+* Good for experimenting with Obj-C messaging and classes
+
+---
+
+### Objective-C++ Edition
+
+**Traits:** Bridges **C++ and Objective-C** for performance and OO flexibility.
+
+**Highlights:**
+
+* Mixes C++ templates and Objective-C classes
+* Can leverage both STL and Cocoa APIs
+* Suitable for hybrid projects or Mac-based terminal simulations
+
+---
+
+### OCaml Edition
+
+**Traits:** Functional-first approach with strong type inference.
+
+**Highlights:**
+
+* Immutable data structures for safety
+* Pattern matching for element updates
+* Expressive functional modeling for AI and growth
+
+---
+
 ### Kotlin JVM Edition
 
 **Repo:** [https://github.com/RobertFlexx/Powder-Sandbox-Kotlin-Edition](https://github.com/RobertFlexx/Powder-Sandbox-Kotlin-Edition)  
@@ -229,6 +268,8 @@ The .NET branch of the project, combining structured OOP and functional styles.
 | Want dynamic scripting and quick iteration       | **Groovy Edition**      |
 | Want structured .NET OOP design                  | **C# Edition**          |
 | Want functional .NET with pattern matching       | **F# Edition**          |
+| Want Objective-C/Objective-C++ experience       | **Obj-C / Obj-C++**     |
+| Want functional, typed experimentation           | **OCaml Edition**       |
 
 ---
 
