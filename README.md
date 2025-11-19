@@ -25,6 +25,16 @@ From low-level **C** to high-level **Kotlin**, each version models the same smal
 
 ---
 
+## Objectives
+
+* Provide a **fun, interactive terminal sandbox** that demonstrates physics and emergent behavior.
+* Serve as a **cross-language reference** for building TUI-based simulators.
+* Encourage experimentation with **different programming paradigms**.
+* Offer a **modular engine (PowderCore)** for integration into other projects.
+* Maintain a **consistent experience** across multiple editions while highlighting each language's strengths.
+
+---
+
 ## Repository Index
 
 ### Native / Systems Editions
