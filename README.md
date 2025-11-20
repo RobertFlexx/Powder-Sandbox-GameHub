@@ -45,7 +45,7 @@ From low-level **C** to high-level **Kotlin**, each version models the same smal
 | C Fast Edition      | C              | [https://github.com/RobertFlexx/Powder-Sandbox-Fast-Edition](https://github.com/RobertFlexx/Powder-Sandbox-Fast-Edition) |
 | Rustbox Edition     | Rust           | [https://github.com/RobertFlexx/Rustbox-Sandbox](https://github.com/RobertFlexx/Rustbox-Sandbox)                         |
 | Objective-C Edition | Objective-C    | https://github.com/RobertFlexx/Powder-Sandbox-Objc-Edition                                                                                                           |
-| Objective-C++ Ed.   | Objective-C++  | https://github.com/RobertFlexx/Powder-Sandbox-Objcpp-Edition                                                                                                           |
+| Objective-C++ Edition   | Objective-C++  | https://github.com/RobertFlexx/Powder-Sandbox-Objcpp-Edition                                                                                                           |
 | OCaml Edition       | OCaml          | https://github.com/RobertFlexx/Powder-Sandbox-OCaml-Edition                                                                                                           |
 
 ### JVM Editions
